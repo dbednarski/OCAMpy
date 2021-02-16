@@ -1,6 +1,6 @@
 # qe_lna
 
-This repository contains three scripts to compute quantum efficience of camera OCAM2. Measurements were taken at LNA (Brasil).
+This repository contains three scripts to compute quantum efficience of camera OCAM2 (First Light). Measurements were taken at LNA (Brasil).
 
 Order to run scripts:
 
